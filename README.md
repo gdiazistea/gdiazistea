@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gonzalo Diaz
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Gonzalo Diaz
 ====================================================================================================================================
 
 Data Analyst
@@ -8,7 +8,7 @@ Data Analyst in continuous development, nearing completion of a Technical Degree
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [gonzadiaz160400@gmail.com](mailto:gonzadiaz160400@gmail.com)
-* 🧠  I'm learning Machine Learning & Deep Learning
+* 🧠  I'm learning AI, Machine Learning & Deep Learning
 
 ### Skills
 
