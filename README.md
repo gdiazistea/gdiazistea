@@ -1,14 +1,14 @@
-Hi👋 my name is Gonzalo Diaz
+Hola👋 Bienvenido a mi perfil de GitHub
 ====================================================================================================================================
 
-Data Analyst
+Gonzalo Diaz | Data Analyst
 ------------
 
-Data Analyst in continuous development, nearing completion of a Technical Degree in Data Science and Artificial Intelligence. With an analytical and proactive approach, I aim to apply and expand my skills in the field of data analysis, always eager to learn and adapt to new challenges.
+Analista de Datos en desarrollo continuo, a punto de finalizar mi carrera de Técnico en Ciencia de Datos e Inteligencia Artificial. Con un enfoque analítico y proactivo, busco aplicar y expandir mis habilidades en el análisis de datos, siempre con la disposición de aprender y adaptarme a nuevos desafíos. Actualmente, me encuentro profundizando mis conocimientos en Machine Learning, Deep Learning, Inteligencia Artificial y en cómo desplegar estos modelos en entornos productivos. Mi objetivo es avanzar hacia un rol de ML Engineer o MLOps.
 
 * 🌍  I'm based in Argentina
-* ✉️  You can contact me at [gonzadiaz160400@gmail.com](mailto:gonzadiaz160400@gmail.com)
-* 🧠  I'm learning AI, Machine Learning & Deep Learning
+* ✉️  Puedes contactarme en [gonzadiaz160400@gmail.com](mailto:gonzadiaz160400@gmail.com)
+* 🧠  Estoy aprendiendo AI, Machine Learning & Deep Learning
 
 ### Skills
 
