@@ -95,13 +95,9 @@ Analista de Datos en desarrollo continuo, a punto de finalizar mi carrera de Té
     </picture>
   </a>
 
-  <!-- Website -->
+  <!-- Website (ícono de globo) -->
   <a href="https://gonzadzz00.github.io/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" width="32" height="32" />
-    </picture>
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" width="32" height="32" alt="Website" />
   </a>
 </p>
 
