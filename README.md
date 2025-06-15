@@ -95,11 +95,6 @@ Analista de Datos en desarrollo continuo, a punto de finalizar mi carrera de Té
     </picture>
   </a>
 
-  <!-- Website (ícono de globo) -->
-  <a href="https://gonzadzz00.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" width="32" height="32" alt="Website" />
-  </a>
-</p>
 
 ### Badges
 
